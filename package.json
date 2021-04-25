@@ -1,0 +1,11 @@
+{
+  "name": "firebase-scenarios",
+  "version": "1.0.0",
+  "description": "CLI that helps setup firebase emulators data making your local first development a bit easier",
+  "main": "index.js",
+  "bin": "index.js",
+  "author": {
+    "name": "Pushpavel Janakiraman"
+  },
+  "license": "MIT"
+}
