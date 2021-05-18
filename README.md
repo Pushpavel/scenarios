@@ -19,6 +19,8 @@ imported for developing your frontend
 
 Let's start by installing Scenarios as a dev dependency of your project with npm.
 
+> This package is not yet published. the command below won't work
+
 ```  
 npm i firebase-scenarios --only=dev
 ```
